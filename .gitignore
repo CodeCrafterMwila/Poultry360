@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit local settings & cache
+.streamlit/
+.idea/
+.vscode/
+
+# Local databases and uploads (keep repo lightweight and secure)
+*.db
+uploads/
